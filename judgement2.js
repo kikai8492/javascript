@@ -22,7 +22,7 @@ function get_pass_or_failure(x,y,z) {
   }
 };
 
-// console.log(get_pass_or_failure(100,59,70));
+
 
 function judgement(x,y,z){
   let achievement = get_achievent(x,y,z);
