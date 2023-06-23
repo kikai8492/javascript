@@ -12,7 +12,7 @@ function get_achievent(x,y,z) {
   }
 }
 
-// console.log(get_achievent(100,60,70));
+
 
 function get_pass_or_failure(x,y,z) {
   if(x >= 60 && y >= 60 && z >= 60) {
